@@ -1,0 +1,8 @@
+NAME- SHIPRA SINHA (1DT20AI037)
+B.E. in AIML 
+
+1 Easy-the code takes a sentence as input, breaks it into words, and then prints the length of the last word in the sentence.
+
+1 Med-The provided code introduces a function named `find` designed to process an array.Upon calling this function it calculates the occurrences of each element within the array and then identifies and prints the elements that appear more frequently than one-third of the array's length.Users are prompted to input a list of integers separated by spaces and the `find` function is invoked with this user provided array.
+
+1 Hard-This code comprises a function called `find` which receives a numerical input.When the function is invoked it produces a list of natural numbers ranging from 1 to the specified input.The function calculates the occurrences of the digit '1' across all these natural numbers.The sum of these occurrences is then computed and displayed.Users are requested to input a number and the `find` function is executed using this user provided number.
